@@ -4,7 +4,7 @@ In this project, you will learn how to use neural networks to extract critical i
 
 ## Objectives
 
-In this exercise, we will:
+In this project, we will:
 
 1. **3D Driving Space Estimation**  
    Use the output from semantic segmentation neural networks to estimate the drivable space where the car can safely navigate.
@@ -36,10 +36,13 @@ Before you begin, you should have the following:
 
 ## Visualize Results
 
-![Original Image](data/Original_Image.png)
-![Ground Mask](data/ground_mask.png)
-![Final Lanes](data/final_lanes.png)
-![Distance to Impact](data/Distance_to_Impact.png)
+![Original Image](data/Original_Image.png).
+
+![Ground Mask](data/ground_mask.png) .
+
+![Final Lanes](data/final_lanes.png) . 
+
+![Distance to Impact](data/Distance_to_Impact.png) .
 
 
 
