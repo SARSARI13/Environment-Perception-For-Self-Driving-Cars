@@ -36,12 +36,16 @@ Before you begin, you should have the following:
 
 ## Visualize Results
 
+- Original Image
 ![Original Image](data/Original_Image.png).
 
+- Ground Mask
 ![Ground Mask](data/ground_mask.png) .
 
+- Final Lanes
 ![Final Lanes](data/final_lanes.png) . 
 
+- Distance to Impact
 ![Distance to Impact](data/Distance_to_Impact.png) .
 
 
